@@ -3,12 +3,12 @@ WebtestorD2 is diversity-driven web testor.  It uses the three-dimensional weigh
 
 #experimental environment
 
-***web application operating environment***
+————web application operating environment————
 Mysql5.5.62
 apache2.4.39
 Please ensure the normal use of the website (Application Under Test)
 
-***program operating environment***
+————program operating environment————
 python 2.7(python3 is not supported)
 Mozilla Firefox 64.0
 geckodriver-v0.24.0
