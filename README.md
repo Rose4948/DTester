@@ -37,4 +37,4 @@ Please ensure that the path and config to the application under test is correctl
 
 ******
 ## phpaaCMS
-data [link](https://www.aliyundrive.com/s/hDnut5RTSXm "phpaaCMS") with password `3dz5`
+data [link](https://www.aliyundrive.com/s/hDnut5RTSXm "phpaaCMS") 
